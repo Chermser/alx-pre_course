@@ -1,3 +1,3 @@
 # 0x01-git
 
-My first git project update
+This is the first git project 
